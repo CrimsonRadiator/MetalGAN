@@ -1,6 +1,8 @@
 # This Black Metal Band Does Not Exist
 Black metal logo generator based on StyleGan2
-
+<p align="center">
+<img src="./sample.png">
+</p>
 For more info visit http://www.thisblackmetalbanddoesnotexist.com
 
 There are two Jupyter Notebook files here:
